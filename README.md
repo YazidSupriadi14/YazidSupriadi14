@@ -108,10 +108,13 @@ I'm passionate about Artificial Intelligence, Natural Language Processing (NLP),
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YazidSupriadi14&show_icons=true&theme=tokyonight" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazidSupriadi14&layout=compact&theme=tokyonight" height="180" alt="languages graph"  />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YazidSupriadi14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazidSupriadi14&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
+
 
 ###
 
