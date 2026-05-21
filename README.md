@@ -77,11 +77,9 @@
 - 📊 Interactive Data Analytics Dashboard
 - 🧠 Deep Learning Text Classification
 
-###
 
 <h3 align="left">🔥 GitHub Stats</h3> 
-### 
-### <div align="center"> <img src="https://streak-stats.demolab.com?user=YazidSupriadi14&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="220" alt="streak graph" /> </div> ###
+ <div align="center"> <img src="https://streak-stats.demolab.com?user=YazidSupriadi14&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="220" alt="streak graph" /> </div> ###
 
 
 <div align="center">
