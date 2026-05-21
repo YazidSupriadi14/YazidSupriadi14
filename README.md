@@ -16,9 +16,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YazidSupriadi14&style=for-the-badge&color=blue"  />
-</div>
+
 
 ###
 
