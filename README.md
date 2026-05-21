@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi 👋, I'm Muhammad
+## Hi 👋, I'm Yazid
 
 ### Artifical Intellegence and Data Entusiast
 
