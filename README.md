@@ -8,10 +8,6 @@
   <a href="https://github.com/YazidSupriadi14">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge" height="25" />
-  
-  <img src="https://img.shields.io/badge/NLP-Deep%20Learning-blueviolet?style=for-the-badge" height="25" />
 </div>
 
 ###
