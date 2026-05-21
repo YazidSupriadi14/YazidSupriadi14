@@ -117,7 +117,7 @@ I'm passionate about Artificial Intelligence, Natural Language Processing (NLP),
 <p align="left">
 
 - 🌐 GitHub: https://github.com/YazidSupriadi14
-- 💼 LinkedIn: [Add your LinkedIn here](https://www.linkedin.com/in/muhammad-yazid-supriadi-15a05815b/)
+- 💼 LinkedIn: <a href="[https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/muhammad-yazid-supriadi-15a05815b/)" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
 - 📧 Email: Add your email here
 
 </p>
