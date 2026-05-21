@@ -4,7 +4,6 @@
 
 ### Artifical Intellegence and Data Entusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yazidsupriadi14&label=Profile views&color=0e75b6&style=flat" alt="yazidsupriadi14" /> </p>
 
 - 🔭 I'm currently working on **i'm currently working on NLP and Data Science Project**
 
