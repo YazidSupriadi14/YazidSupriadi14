@@ -84,10 +84,10 @@
 
 <div align="center">
 
-### 🚀 Building intelligent systems through continuous learning.
+🚀 Building intelligent systems through continuous learning.
 
 </div>
-```
+
 
 
 
