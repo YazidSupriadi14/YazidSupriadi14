@@ -77,17 +77,17 @@
 - 📊 Interactive Data Analytics Dashboard
 - 🧠 Deep Learning Text Classification
 
----
-
-## 🔥 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YazidSupriadi14&theme=tokyonight" height="200" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YazidSupriadi14&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazidSupriadi14&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+```
 
----
 
 <div align="center">
 
@@ -96,7 +96,6 @@
 </div>
 ```
 
-```
 
 
 <!--
