@@ -107,14 +107,6 @@ I'm passionate about Artificial Intelligence, Natural Language Processing (NLP),
 
 ###
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YazidSupriadi14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazidSupriadi14&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
 
 ###
 
@@ -129,7 +121,7 @@ I'm passionate about Artificial Intelligence, Natural Language Processing (NLP),
 <p align="left">
 
 - 🌐 GitHub: https://github.com/YazidSupriadi14
-- 💼 LinkedIn: Add your LinkedIn here
+- 💼 LinkedIn: [Add your LinkedIn here](https://www.linkedin.com/in/muhammad-yazid-supriadi-15a05815b/)
 - 📧 Email: Add your email here
 
 </p>
